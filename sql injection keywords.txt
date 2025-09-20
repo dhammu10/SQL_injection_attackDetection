@@ -1,0 +1,37 @@
+For Login(Data Sanitization)
+  
+'or1=1-+";
+' or 1=1-+";
+' or ''='";
+' OR ''='";
+' or 1=1--";
+' OR 1=1";
+
+For Registration (Data Santization)
+delete
+delete from
+select
+inner join
+outer join
+select * from
+insert into
+create table
+alter table
+drop table
+drop table
+drop view
+create storedprocedure
+create procedure
+create function
+create view
+drop view
+drop procedure
+drop function
+
+
+
+
+Question Registration
+
+' union select * from users
+; drop table userinfo;
