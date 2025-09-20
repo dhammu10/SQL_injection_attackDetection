@@ -57,8 +57,6 @@ Execution of Project
  
 localhost:8080/home
 ----------------------------------------------------------------
-
-www.sohamglobal.com
  
 SQL Injection example
 select * from users where userid='sdfd' and 
