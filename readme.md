@@ -268,5 +268,4 @@ DELIMITER ;
 Specify your license here (e.g., `MIT`, `Apache-2.0`) and add contact info for maintainers.
 
 ---
-
-*Generated: ready-to-commit `README.md` for CloudSQLAttackApp.*
+ 
