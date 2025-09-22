@@ -263,9 +263,10 @@ DELIMITER ;
 
 ---
 
-## License & Contact
+## Contact
 
-Specify your license here (e.g., `MIT`, `Apache-2.0`) and add contact info for maintainers.
+    Name  : Dhammddip Modak
+    Email : modakdhammdip@gmail.com
 
 ---
  
